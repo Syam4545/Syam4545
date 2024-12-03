@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Syam Sybramnanian
 - 👀 I’m interested in Frontend Development
+- ✨ Certified in MEARN full Stack Development
 - 🌱 I’m currently learning UI/UX development
 
 
